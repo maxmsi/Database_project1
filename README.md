@@ -1,2 +1,3 @@
 # Database_project1
-Simply project for my studies at classes Bazy Danych 1.
+Database system entitled "CAR SHOWROM" 
+Simply project for my study at classes Bazy Danych 1.
